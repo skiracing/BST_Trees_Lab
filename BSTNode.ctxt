@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BSTNode
+comment1.params=
+comment1.target=BSTNode()
+comment2.params=data
+comment2.target=BSTNode(int)
+comment3.params=
+comment3.target=int\ numChildren()
+comment4.params=data
+comment4.target=void\ setElement(int)
+comment5.params=
+comment5.target=int\ getElement()
+comment6.params=
+comment6.target=BSTNode\ getRight()
+comment7.params=node
+comment7.target=void\ setRight(BSTNode)
+comment8.params=
+comment8.target=BSTNode\ getLeft()
+comment9.params=node
+comment9.target=void\ setLeft(BSTNode)
+numComments=10
